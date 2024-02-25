@@ -1,1 +1,4 @@
-env/
+*.pkl
+logs.txt
+catboost_info/
+structured_data_classifier/
