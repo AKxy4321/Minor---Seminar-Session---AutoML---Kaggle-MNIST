@@ -3,3 +3,4 @@ logs.log
 catboost_info/
 structured_data_classifier/
 *.doc
+*.csv
