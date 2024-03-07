@@ -6,3 +6,4 @@ structured_data_classifier/
 *.docx
 *.csv
 *.txt
+data/
